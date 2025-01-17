@@ -1,0 +1,14 @@
+/Users/gutblue/RiderProjects/Mission2Assignment/bin/Debug/net8.0/Mission2Assignment
+/Users/gutblue/RiderProjects/Mission2Assignment/bin/Debug/net8.0/Mission2Assignment.deps.json
+/Users/gutblue/RiderProjects/Mission2Assignment/bin/Debug/net8.0/Mission2Assignment.runtimeconfig.json
+/Users/gutblue/RiderProjects/Mission2Assignment/bin/Debug/net8.0/Mission2Assignment.dll
+/Users/gutblue/RiderProjects/Mission2Assignment/bin/Debug/net8.0/Mission2Assignment.pdb
+/Users/gutblue/RiderProjects/Mission2Assignment/obj/Debug/net8.0/Mission2Assignment.GeneratedMSBuildEditorConfig.editorconfig
+/Users/gutblue/RiderProjects/Mission2Assignment/obj/Debug/net8.0/Mission2Assignment.AssemblyInfoInputs.cache
+/Users/gutblue/RiderProjects/Mission2Assignment/obj/Debug/net8.0/Mission2Assignment.AssemblyInfo.cs
+/Users/gutblue/RiderProjects/Mission2Assignment/obj/Debug/net8.0/Mission2Assignment.csproj.CoreCompileInputs.cache
+/Users/gutblue/RiderProjects/Mission2Assignment/obj/Debug/net8.0/Mission2Assignment.dll
+/Users/gutblue/RiderProjects/Mission2Assignment/obj/Debug/net8.0/refint/Mission2Assignment.dll
+/Users/gutblue/RiderProjects/Mission2Assignment/obj/Debug/net8.0/Mission2Assignment.pdb
+/Users/gutblue/RiderProjects/Mission2Assignment/obj/Debug/net8.0/Mission2Assignment.genruntimeconfig.cache
+/Users/gutblue/RiderProjects/Mission2Assignment/obj/Debug/net8.0/ref/Mission2Assignment.dll
