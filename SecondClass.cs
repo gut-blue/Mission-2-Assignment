@@ -13,7 +13,8 @@ public class SecondClass
         return random.Next(1, 7);
     }
     
-    // Method to roll two dice and return their sum
+    // Method to simulate rolling two dice and return their sum
+    // (by adding up the 2 instances of rolling ONE die)
     public int RollTwoDice()
     {
         // Creating instances of the two DICE

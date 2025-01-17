@@ -12,3 +12,4 @@
 /Users/gutblue/RiderProjects/Mission2Assignment/obj/Debug/net8.0/Mission2Assignment.pdb
 /Users/gutblue/RiderProjects/Mission2Assignment/obj/Debug/net8.0/Mission2Assignment.genruntimeconfig.cache
 /Users/gutblue/RiderProjects/Mission2Assignment/obj/Debug/net8.0/ref/Mission2Assignment.dll
+/Users/gutblue/RiderProjects/Mission2Assignment/obj/Debug/net8.0/Mission2Assignment.sourcelink.json
